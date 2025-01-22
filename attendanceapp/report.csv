@@ -1,0 +1,16 @@
+Session:,"2023 AUTUMN SEMESTER"
+Course:,"CS112-Data Mining & Data Warehousing"
+Faculty:,"Ram Charan Baishya"
+total,1
+start,2024-12-17
+end,2024-12-17
+slno,roll_no,name,2024-12-17,attended,percent
+1,CSB21001,"Alexy Johnson",P,1,100
+2,CSB21004,"Sophia Williams",P,1,100
+3,CSB21005,"Daniel Brown",P,1,100
+4,CSB21009,"David Wilson",A,0,0
+5,CSB21010,"Sarah Taylor",A,0,0
+6,CSM21002,"Isabella Rodriguez",A,0,0
+7,CSM21003,"Ethan Martinez",A,0,0
+8,CSM21006,"Sophia Perez",A,0,0
+9,CSM21009,"William Martinez",A,0,0
